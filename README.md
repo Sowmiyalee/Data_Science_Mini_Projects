@@ -30,7 +30,7 @@
 ### [NLP Text Mining ElonMusk](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2012%20-%20NLP/As11%20-%20Q1%20-%20TextMining%20-%20Elonmusk.ipynb)
 ### [NLP Emotional Mining Amazon Reviews 1](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2012%20-%20NLP/As11%20-%20Q2%20-%20EmotionMining%20-%20amazonreview.ipynb)
 ### [NLP Emotional Mining Amazon Reviews 2](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2012%20-%20NLP/As11%20-%20Q2%20-%20EmotionMining%20-%20amazonreview2.ipynb)
-### [Naive Bayse Salary](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2014%20-%20Naivebayes/As12%20-%20Q1%20-%20Naivebayes%20-%20Salary.ipynb)
+### [Naive Bayes Salary](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2014%20-%20Naivebayes/As12%20-%20Q1%20-%20Naivebayes%20-%20Salary.ipynb)
 ### [Neural Networks Forest Fire](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2018%20-%20Neural%20Networks/As16%20-%20Q1%20-%20NN%20-%20forest%20fire.ipynb)
 ### [Neural Networks Gasturbine](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2018%20-%20Neural%20Networks/As16%20-%20Q2%20-%20NN%20-%20Gasturbine.ipynb)
 ### [Forecast Airline](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2019%20-%20Forecasting/As18%20-%20Q1%20-%20Forecast%20-%20Airline.ipynb)
