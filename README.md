@@ -21,13 +21,20 @@
 ### [Association Rule Books](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2010%20-%20Association%20Rule/As9%20-%20Q1%20-AssociaRule%20-%20book.ipynb)
 ### [Association Rule Movies](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2010%20-%20Association%20Rule/As9%20-%20Q2%20-AssociaRule%20-%20Movies.ipynb)
 ### [Recommendation System](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2011%20-%20Recommendation%20System/As10%20-%20Q1%20-Recommendaionsys.ipynb)
-### [PCA Wine]
-### [PCA Wine]
-
-
-
-
-
+### [Decision Tree Fraud](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2015-%20Decision%20Tree/As14%20-%20Q1%20-%20DT%20-%20Fraud.ipynb)
+### [Decision Tree Company](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2015-%20Decision%20Tree/As14%20-%20Q2%20-%20DT%20-%20Company.ipynb)
+### [Random Forest Fraud](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2016%20-%20Random%20Forest/As15%20-%20Q1%20-%20RF%20-%20Fraud.ipynb)
+### [Random Forest Company](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2016%20-%20Random%20Forest/As15%20-%20Q2%20-%20RF%20-%20Company.ipynb)
+### [SVM Forest Fire](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2017%20-%20SVM/As17%20-%20Q1%20-%20SVM%20-%20Forestfire.ipynb)
+### [SVM Salary](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2017%20-%20SVM/As17%20-%20Q2%20-%20SVM%20-%20Salary.ipynb)
+### [NLP Text Mining ElonMusk](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2012%20-%20NLP/As11%20-%20Q1%20-%20TextMining%20-%20Elonmusk.ipynb)
+### [NLP Emotional Mining Amazon Reviews 1](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2012%20-%20NLP/As11%20-%20Q2%20-%20EmotionMining%20-%20amazonreview.ipynb)
+### [NLP Emotional Mining Amazon Reviews 2](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2012%20-%20NLP/As11%20-%20Q2%20-%20EmotionMining%20-%20amazonreview2.ipynb)
+### [Naive Bayse Salary](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2014%20-%20Naivebayes/As12%20-%20Q1%20-%20Naivebayes%20-%20Salary.ipynb)
+### [Neural Networks Forest Fire](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2018%20-%20Neural%20Networks/As16%20-%20Q1%20-%20NN%20-%20forest%20fire.ipynb)
+### [Neural Networks Gasturbine](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2018%20-%20Neural%20Networks/As16%20-%20Q2%20-%20NN%20-%20Gasturbine.ipynb)
+### [Forecast Airline](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2019%20-%20Forecasting/As18%20-%20Q1%20-%20Forecast%20-%20Airline.ipynb)
+### [Forecast ColaSale](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2019%20-%20Forecasting/As18%20-%20Q2%20-%20Forecast%20-%20ColaSales.ipynb)
 
 
 ## Author
