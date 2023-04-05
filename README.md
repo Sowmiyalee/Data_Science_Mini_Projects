@@ -24,7 +24,7 @@
 <table>
 <tr>
 <td>
-     <img src="https://avatars.githubusercontent.com/Sowmiyalee.png" width="180"/>
+     <img src="https://avatars.githubusercontent.com/Sowmiyalee.png?" width="180"/>
      
      sowmiyaleechan@gmail.com
 
