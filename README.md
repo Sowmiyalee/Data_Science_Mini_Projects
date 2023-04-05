@@ -1,6 +1,6 @@
 # ExcelR_Data_Science_Assignments
-# [Basic Stats 1 Level 1](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/tree/main/Mini%20Projects/Assgn%201%20-%20Basic%20Stats%201)
-# [Basic Stats 2 Level 2 Set 1](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/tree/main/Mini%20Projects/Assgn%202%20-%20Basic%20Stats%202/Basic%20Stats%202%20Set%201)
+### [Basic Stats 1 Level 1](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/tree/main/Mini%20Projects/Assgn%201%20-%20Basic%20Stats%201)
+### [Basic Stats 2 Level 2 Set 1](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/tree/main/Mini%20Projects/Assgn%202%20-%20Basic%20Stats%202/Basic%20Stats%202%20Set%201)
 # [Basic Stats 2 Level 2 Set 2](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/tree/main/Mini%20Projects/Assgn%202%20-%20Basic%20Stats%202/Basic%20Stats%202%20Set%202)
 # [Basic Stats 2 Level 2 Set 3](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%202%20-%20Basic%20Stats%202/Set%2B3.doc)
 # [Basic Stats 2 Level 2 Set 4](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%202%20-%20Basic%20Stats%202/Set%2B4.docx)
@@ -18,6 +18,24 @@
 # [Clustering CrimeData](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%208%20-%20Clustering/Clustering%20-%20CrimeData.ipynb)
 # [Clustering EastWest Airlines](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%208%20-%20Clustering/Clustering%20-%20EastWest%20Airlines.ipynb)
 
+
+## Author
+
+<table>
+<tr>
+<td>
+     <img src="https://avatars.githubusercontent.com/u/99672298?v=4" width="180"/>
+     
+     moindalvs@gmail.com
+
+<p align="center">
+<a href = "https://github.com/MoinDalvs"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/sowmiya-kumaresan-15b624100/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+</p>
+</td>
+</tr> 
+  </table>
+ 
 [Table of Content](#0.1)
 
 <div style="display:fill;
