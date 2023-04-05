@@ -18,4 +18,20 @@
 # [Clustering CrimeData](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%208%20-%20Clustering/Clustering%20-%20CrimeData.ipynb)
 # [Clustering EastWest Airlines](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%208%20-%20Clustering/Clustering%20-%20EastWest%20Airlines.ipynb)
 
+[Table of Content](#0.1)
 
+<div style="display:fill;
+            border-radius: false;
+            border-style: solid;
+            border-color:#000000;
+            border-style: false;
+            border-width: 2px;
+            color:#CF673A;
+            font-size:15px;
+            font-family: Georgia;
+            background-color:#E8DCCC;
+            text-align:center;
+            letter-spacing:0.1px;
+            padding: 0.1em;">
+
+**<h2>♡ Thank you for taking the time ♡**
