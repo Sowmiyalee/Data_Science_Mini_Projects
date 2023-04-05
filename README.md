@@ -17,6 +17,17 @@
 ### [KNN Zoo](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%207%20-%20KNN/Assign%20-%20KNN-Zoo.ipynb)
 ### [Clustering CrimeData](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%208%20-%20Clustering/Clustering%20-%20CrimeData.ipynb)
 ### [Clustering EastWest Airlines](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%208%20-%20Clustering/Clustering%20-%20EastWest%20Airlines.ipynb)
+### [PCA Wine](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%209-%20PCA/As8%20-%20Q1%20-%20PCA-%20Wine.ipynb)
+### [Association Rule Books](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2010%20-%20Association%20Rule/As9%20-%20Q1%20-AssociaRule%20-%20book.ipynb)
+### [Association Rule Movies](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2010%20-%20Association%20Rule/As9%20-%20Q2%20-AssociaRule%20-%20Movies.ipynb)
+### [Recommendation System](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Mini%20Projects/Assgn%2011%20-%20Recommendation%20System/As10%20-%20Q1%20-Recommendaionsys.ipynb)
+### [PCA Wine]
+### [PCA Wine]
+
+
+
+
+
 
 
 ## Author
