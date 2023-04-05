@@ -1,2 +1,2 @@
 # ExcelR_Data_Science_Assignments
-# [Recommendation System](https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/blob/main/Assgn%2010%20-%20Recommendation%20System/As10%20-%20Q1%20-Recommendaionsys.ipynb)
+# [Basic Stats 1 ]https://github.com/Sowmiyalee/ExcelR_Data_Science_Assignments/tree/main/Mini%20Projects/Assgn%201%20-%20Basic%20Stats%201
